@@ -1,7 +1,7 @@
 
-# ClickCart App
+# ECart App
 
-Click Cart is an e-commerce website that allows users to browse and purchase products online. It is built using modern web development technologies, including React.js, Tailwind CSS, AOS, React Slick, Axios, Node.js, Express.js, and Cors.
+ECart is an e-commerce website that allows users to browse and purchase products online. It is built using modern web development technologies, including React.js, Tailwind CSS, AOS, React Slick, Axios, Node.js, Express.js, and Cors.
 
 Front-End:
 - React.js: A JavaScript library for building user interfaces.
