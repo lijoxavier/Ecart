@@ -24,9 +24,9 @@ Click Cart offers a feature-rich and visually appealing e-commerce website, show
 
 ## Screenshots
 
-![App Screenshot](screenshot1.png)
+![App Screenshot](Screenshot1.png)
 
-![App Screenshot](screenshot2.png)
+![App Screenshot](Screenshot2.png)
 
 
 
